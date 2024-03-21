@@ -1,5 +1,9 @@
 # Welcome to my GitHub! I'm Marisa
 
+![art](https://github.com/mrzamin/mrzamin/assets/142754418/385a6a2e-f99f-45b4-b15c-83befd532b30)
+![](https://komarev.com/ghpvc/?username=mrzamin&color=grey&style=plastic)
+
+
 ## Latest update - March 2024
 
 I attend code meetups and recently learned through a connection there that an open-source React project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
