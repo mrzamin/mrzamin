@@ -30,4 +30,4 @@ A Weather App to familiarize myself with working with APIs and async code!
 
 ## Tools I Have Been Using So Far
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,git,jest, npm, react, ubuntu, vscode, webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,git,jest,npm,react,ubuntu,vscode,webpack)](https://skillicons.dev)
