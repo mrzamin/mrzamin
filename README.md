@@ -14,7 +14,7 @@ Random cool art from <a href="https://www.adobe.com/express/">Adobe Express</a>
 
 ## Latest update - March 2024
 
-I attended code meetups in March and recently learned through a connection there that an open-source React project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
+I attended code meetups in February and learned from a connection there that an open-source React/Next.js project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
 
 ## About Me
 
@@ -37,6 +37,11 @@ Some recent projects I've worked on:
 - Admin Dashboard (HTML, vanilla CSS) using CSS Grid
 
 If you’re learning to code, I highly recommend Odin. Its curriculum is robust, and it has passionate maintainers and learners all over the world. Completely free!
+
+## Things That Keep Me Motivated and Joyful
+My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting amazing people at meetups, filming videos for YouTube, 'git push origin main' ;), morning coffee followed by morning green tea, progress
+
+"Suffering is living in the prison of your mind. Freedom is total commitment." -Ed Mylett
 
 ## Currently Working On
 
