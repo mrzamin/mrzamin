@@ -1,8 +1,8 @@
-# Welcome to my Github! I'm Marisa
+# Welcome to my GitHub! I'm Marisa
 
 ## Latest update - March 2024
 
-I attend code meetups and recently learned through a connection there that a open-source React project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
+I attend code meetups and recently learned through a connection there that an open-source React project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
 
 ## About Me
 
@@ -14,7 +14,7 @@ You can find me writing code and learning new tools daily ever since I’ve set 
 
 ## Recent Projects
 
-I’ve learned most of what I know about programming through the [The Odin Project], (https://www.theodinproject.com/about) an open-source project with the aim of teaching full-stack web development to newbies using resources that are 100% free across the web and through building projects. Odin’s curriculum emphasizes the programmer mindset, problem solving, how to appropriately ask for help, and learning core skills through reading documentation and doing your own research. 
+I’ve learned most of what I know about programming through the [The Odin Project](https://www.theodinproject.com/about) an open-source project with the aim of teaching full-stack web development to newbies using resources that are 100% free across the web and through building projects. Odin’s curriculum emphasizes the programmer mindset, problem solving, how to appropriately ask for help, and learning core skills through reading documentation and doing your own research. 
 
 Some recent projects I've worked on:
 
