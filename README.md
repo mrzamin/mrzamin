@@ -6,7 +6,7 @@
 
 <div> Random cool art from <a href="https://www.adobe.com/express/">Adobe Express</a><div>
 
-<img src="https://komarev.com/ghpvc/?username=mrzamin&color=grey&style=plastic" alt="counter"/>
+<div><img src="https://komarev.com/ghpvc/?username=mrzamin&color=grey&style=plastic" alt="counter"/> </div>
 
 </div>
 
