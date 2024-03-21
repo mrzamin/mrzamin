@@ -3,7 +3,8 @@
 <div align="center">
   
 ![art](https://github.com/mrzamin/mrzamin/assets/142754418/385a6a2e-f99f-45b4-b15c-83befd532b30)
-Random cool art from [Adobe Express](https://www.adobe.com/express/)
+
+<div> Random cool art from [Adobe Express](https://www.adobe.com/express/) </div>
 
 <img src="https://komarev.com/ghpvc/?username=mrzamin&color=grey&style=plastic" alt="counter"/>
 
