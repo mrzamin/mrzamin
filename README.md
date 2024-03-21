@@ -36,6 +36,8 @@ Some recent projects I've worked on:
 - Library App (HTML, vanilla CSS and JS) using JS object constructors
 - Admin Dashboard (HTML, vanilla CSS) using CSS Grid
 
+If you’re learning to code, I highly recommend Odin. Its curriculum is robust, and it has passionate maintainers and learners all over the world. Completely free!
+
 ## Currently Working On
 
 A Weather App to familiarize myself with working with APIs and async code.
