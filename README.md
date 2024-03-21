@@ -3,6 +3,7 @@
 <div align="center">
   
 ![art](https://github.com/mrzamin/mrzamin/assets/142754418/385a6a2e-f99f-45b4-b15c-83befd532b30)
+Random cool art from [Adobe Express](https://www.adobe.com/express/)
 
 <img src="https://komarev.com/ghpvc/?username=mrzamin&color=grey&style=plastic" alt="counter"/>
 
@@ -16,9 +17,9 @@ I attend code meetups and recently learned through a connection there that an op
 
 I’m a career-changer into software development. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. Now that I’m 26 years old I have decided to look into a fulfilling career change. I feel passionate about programming and am thrilled that I have found that new passion.
 
-JavaScript is my first programming language, and before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What immediately struck me as unique was the passionate community behind it. The professional people I’ve had the opportunity to meet in-person and online all possess a very rare commitment to lifelong learning and curiosity, honing of their craft, and innovation. Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but what makes it worth it are personal growth and joy – which make for a fulfilling career and life. 
+JavaScript is my first programming language, and before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What immediately struck me as unique was the passionate community behind it. The professional people I’ve had the opportunity to meet in-person and online all possess a very rare commitment to lifelong learning and curiosity, honing of their craft, and innovation. Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but what makes it worth it are the personal growth and joy that comes with that commitment – which make for a fulfilling career and life. 
 
-You can find me writing code and learning new tools daily ever since I’ve set my mind on becoming a hirable developer. In my free time, I enjoy early-morning walks in nature, gardening with my husband, cooking delicious new recipes, and serving on the film production team at my Church. Goals of mine this year include learning to lift weights to become more healthy and improving my intermediate French skills.
+You can find me writing code and learning new tools daily ever since I’ve set my mind on becoming a hirable developer. In my free time, I enjoy early-morning walks in nature, gardening with my husband, and serving on the film production team at my Church. Goals of mine this year include learning to lift weights to become more healthy and improving my intermediate-level French skills.
 
 ## Recent Projects
 
