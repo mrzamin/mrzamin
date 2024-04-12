@@ -1,10 +1,11 @@
-# Welcome to my GitHub! I'm Marisa
+
 
 <div align="center">
   
-![art](https://github.com/mrzamin/mrzamin/assets/142754418/385a6a2e-f99f-45b4-b15c-83befd532b30)
+![github-header](https://github.com/mrzamin/mrzamin/assets/142754418/5b5ecd31-5553-477e-8592-389a7ee17520)
 
-Random cool art from <a href="https://www.adobe.com/express/">Adobe Express</a>
+
+
 
 </div>
 
@@ -12,40 +13,37 @@ Random cool art from <a href="https://www.adobe.com/express/">Adobe Express</a>
 <img src="https://komarev.com/ghpvc/?username=mrzamin&color=lightgrey" alt="counter"/>
 </div>
 
-## Latest update - March 2024
-
-I attended code meetups in February and learned from a connection there that an open-source React/Next.js project is starting up in my area. It's beginner-friendly so I look forward to contributing to that!
-
 ## About Me
 
-I’m a career-changer into software development. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. Now that I’m 26 years old I have decided to look into a fulfilling career change. I feel passionate about programming and am thrilled that I have found that new passion.
+I’m a career-changer into software development. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. After a few years in education, I decided to look into a fulfilling career change. While trying out new things I did not expect to become passionate about programming and web development, but I did, and that's what brings us to the present moment-- you visiting my GitHub! I feel grateful to be entering a field that will always challenge me to learn and grow. 
 
-JavaScript is my first programming language; before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What immediately struck me as unique as I was learning to code was the passionate programming community. The professional people I’ve been priviliged to meet in-person and online possess a very rare commitment to lifelong learning and curiosity. Not only that, but they are constantly honing their craft and innovating. Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but what makes it worth it are the personal growth and joy that comes with that high level of commitment.
+JavaScript is my first programming language; before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What struck me as unique as I was first learning to code was the passionate programming community. The professional people I’ve been priviliged to meet both in-person and online possess a very rare commitment to lifelong learning and curiosity. Not only that, they are constantly honing their craft. I too want to experience the personal growth and joy that comes with that high level of commitment, build meaningful software, and contribute to and be part of a community as passionate as the dev community.
 
-You can find me writing code and learning new tools daily ever since I’ve set my mind on becoming a hirable developer. In my free time, I enjoy walks in nature, gardening with my husband, and serving on the film production team at my church. Goals of mine this year include developing a weekly habit of lifting weights for my health and improving my intermediate-level French skills.
+Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but the rewards I mention above have been powerful motivation for me to get through the tough days. 
+
+You can find me writing code and learning new tools daily ever since I’ve set my mind on becoming a hirable developer. In my free time, I enjoy walks in nature, gardening with my husband, and serving on the film production team at my church. Goals of mine this year include developing a weekly habit of lifting weights for my health.
 
 ## Recent Projects
 
-I’ve learned most of what I know about programming through the [The Odin Project](https://www.theodinproject.com/about), an open-source project that teaches full-stack web development to newbies using resources that are 100% free across the web. In Odin, you build many, many projects. The curriculum emphasizes mindset, problem solving ability, and importance of the fundamentals. You are expected to develop grit as a developer and overcome obstacles in your code by reading documentation and doing your own research. 
+I’ve learned most of what I know about programming through the [The Odin Project](https://www.theodinproject.com/about), a web development roadmap and open-source project that guides self-learners to full-stack competence using resources that are 100% free online. In Odin, you build many, many projects. The curriculum emphasizes mindset, problem solving ability, and importance of the fundamentals. You are expected to develop grit as a developer and overcome obstacles in your code by reading documentation and doing your own research. 
 
 Some recent projects I've worked on:
 
-- To-Do List App (HTML, vanilla CSS and JS) using ES6 modules, webpack, and Web Storage API
-- Restaurant Homepage (HTML, vanilla CSS and JS) using ES6 modules and webpack
-- Tic-Tac-Toe Game (HTML, vanilla CSS and JS) using JS factory functions
-- Library App (HTML, vanilla CSS and JS) using JS object constructors
-- Admin Dashboard (HTML, vanilla CSS) using CSS Grid
+- [Memory Card Game](https://github.com/mrzamin/memory-game) (React) using useState and useEffect hooks
+- [Resume Builder](https://github.com/mrzamin/cv-builder) (React) using useState hook, props, and Vite's React config
+- [Weather App](https://github.com/mrzamin/weather-app) (HTML, CSS, and JavaScript) using asynchronous code and an external API
+- [To-Do List App](https://github.com/mrzamin/to-do-list-app) (HTML, CSS, and JavaScript) using ES6 modules, Webpack, and Web Storage API
 
-If you’re learning to code, I highly recommend Odin. Its curriculum is robust, and it has passionate maintainers and learners all over the world. Completely free!
+## Things That Keep Me Going and Joyful
+My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting people at meetups, filming YouTube videos, 'git push' ;), progress
 
-## Things That Keep Me Motivated and Joyful
-My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting amazing people at meetups, filming videos for YouTube, 'git push origin main' ;), morning coffee followed by morning green tea, progress
+## My Favorite Quote Right Now
 
 "Suffering is living in the prison of your mind. Freedom is total commitment." -Ed Mylett
 
 ## Currently Working On
 
-A Weather App to familiarize myself with working with APIs and async code.
+Diving deeper into learning React including class-based components, lifecycle methods, testing, mocking, React Router
 
 ## Tools I Have Been Using So Far
 
