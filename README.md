@@ -37,7 +37,7 @@ Some recent projects I've worked on:
 ## Things That Keep Me Going and Joyful
 My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting people at meetups, filming YouTube videos, 'git push' ;), progress
 
-## My Favorite Quote Right Now
+## Favorite Quote: April 2024
 
 "Suffering is living in the prison of your mind. Freedom is total commitment." -Ed Mylett
 
