@@ -43,7 +43,7 @@ My faith, support from family, morning routine, intellectual challenges, mindset
 
 ## Currently Working On
 
-Diving deeper into learning React including class-based components, lifecycle methods, testing, mocking, React Router
+Diving deeper into learning React concepts including class-based components, lifecycle methods, testing, mocking, React Router
 
 ## Tools I Have Been Using So Far
 
