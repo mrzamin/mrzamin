@@ -17,7 +17,7 @@
 
 I’m a career-changer into software development. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. After a few years in education, I decided to look into a fulfilling career change. While trying out new things I did not expect to become passionate about programming and web development, but I did, and that's what brings us to the present moment-- you visiting my GitHub! I feel grateful to be entering a field that will always challenge me to learn and grow. 
 
-JavaScript is my first programming language; before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What struck me as unique as I was first learning to code was the passionate programming community. The professional people I’ve been priviliged to meet both in-person and online possess a very rare commitment to lifelong learning and curiosity. Not only that, they are constantly honing their craft. I too want to experience the personal growth and joy that comes with that high level of commitment, build meaningful software, and contribute to and be part of a community as passionate as the dev community.
+JavaScript is my first programming language; before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What struck me as unique as I was first learning to code was the passionate programming community. The professional people I’ve been priviliged to meet both in-person and online possess a very rare commitment to lifelong learning and curiosity. Not only that, they are constantly honing their craft. I too want to experience the personal growth and joy that comes with that high level of commitment, build meaningful software, and be part of a community as passionate as the dev community.
 
 Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but the rewards I mention above have been powerful motivation for me to get through the tough days. 
 
@@ -29,6 +29,7 @@ I’ve learned most of what I know about programming through the [The Odin Proje
 
 Some recent projects I've worked on:
 
+- [Thinkfolio](https://github.com/mrzamin/bookstore), a frontend-based e-commerce store (React) using React Router and the Context API
 - [Memory Card Game](https://github.com/mrzamin/memory-game) (React) using useState and useEffect hooks
 - [Resume Builder](https://github.com/mrzamin/cv-builder) (React) using useState hook, props, and Vite's React config
 - [Weather App](https://github.com/mrzamin/weather-app) (HTML, CSS, and JavaScript) using asynchronous code and an external API
@@ -37,13 +38,13 @@ Some recent projects I've worked on:
 ## Things That Keep Me Going and Joyful
 My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting people at meetups, filming YouTube videos, 'git push' ;), progress
 
-## Favorite Quote: April 2024
+## Favorite Quote: May 2024
 
-"Suffering is living in the prison of your mind. Freedom is total commitment." -Ed Mylett
+"Failure is exciting. It means you have different ways, opportunities, to get better." -Kobe Bryant
 
 ## Currently Working On
 
-Diving deeper into learning React concepts including class-based components, lifecycle methods, testing, mocking, React Router
+Learning backend with Node.js!
 
 ## Tools I Have Been Using So Far
 
