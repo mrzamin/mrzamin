@@ -40,7 +40,7 @@ My faith, support from family, morning routine, intellectual challenges, mindset
 
 ## Favorite Quote: May 2024
 
-"Failure is exciting. It means you have different ways, opportunities, to get better." -Kobe Bryant
+"Truly, thoughts are things." -Napolean Hill
 
 ## Currently Working On
 
