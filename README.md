@@ -36,14 +36,14 @@ Some recent projects I've worked on:
 ## Things That Keep Me Going and Joyful
 My faith, support from family, morning routine, intellectual challenges, mindset podcasts, music, nature, meeting people at meetups, filming YouTube videos, 'git push' ;), progress
 
-## Favorite Quote: May 2024
+## Favorite Quote: August 2024
 
-"Truly, thoughts are things." -Napolean Hill
+"There are no failures, only lessons"
 
 ## Currently Working On
 
-Learning backend with Node.js!
+Contributing to a community project
 
 ## Tools I Have Been Using So Far
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,git,jest,npm,react,ubuntu,vscode,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,babel,git,jest,npm,react,ubuntu,vscode,webpack,express,linux,mongodb,nestjs,nodejs,prisma,pug,tailwind)](https://skillicons.dev)
