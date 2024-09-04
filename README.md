@@ -15,9 +15,9 @@
 
 ## About Me
 
-I’m a career-changer into software development. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. After a few years in education, I decided to look into a fulfilling career change. While trying out new things I did not expect to become passionate about programming and web development, but I did, and that's what brings us to the present moment-- you visiting my GitHub! I feel grateful to be entering a field that will always challenge me to learn and grow. 
+I’m a career-changer into software development and technology. Most recently I’ve worked in foreign language education services (501c3 nonprofit) as a program director. After a few years in education, I decided to look into a fulfilling career change. While trying out new things I did not expect to become passionate about programming, but I did, and that's what brings us to the present moment-- you visiting my GitHub! I feel grateful to be entering a field that will always challenge me to learn and grow. 
 
-JavaScript is my first programming language; before learning it, I had absolutely zero knowledge about programming, software development, or computer science. What struck me as unique as I was first learning to code was the passionate programming community. Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but the rewards I mention above have been powerful motivation for me to get through the tough days. 
+JavaScript is my first programming language; before learning it. What struck me as unique as I was first learning to code was the passionate programming community. Anyone you speak to will tell you soberly that this field isn’t easy (on the contrary it’s extremely tough), but the rewards I mention above have been powerful motivation for me to get through the tough days. 
 
 You can find me writing code and learning new tools daily ever since I’ve set my mind on becoming a hirable developer. In my free time, I enjoy walks in nature, gardening, and serving on the film production team at my church. Goals of mine this year include developing a weekly habit of lifting weights for my health.
 
